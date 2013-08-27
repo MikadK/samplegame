@@ -1,2 +1,10 @@
 テスト記入
 
+class sample()
+{
+  public static void Main()
+  {
+    int testInt = 255;
+    Console.WriteLine(testInt);
+  }
+}
