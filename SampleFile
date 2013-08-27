@@ -1,2 +1,9 @@
-テスト記入
+// テスト記入
+
+using system;
+
+class test()
+{
+
+}
 
